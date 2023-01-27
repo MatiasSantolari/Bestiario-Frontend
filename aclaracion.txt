@@ -1,0 +1,1 @@
+Frontend (hecho con Svelte) del proyecto de Bestiario.
